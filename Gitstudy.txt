@@ -1,0 +1,10 @@
+Gitstudy-----
+2019-11-9
+19:46
+
+
+
+git init
+git add [filename»ò.]
+git commit -m "ËµÃ÷"
+git remote add origin https://github.com/Dainelcw/*.git
